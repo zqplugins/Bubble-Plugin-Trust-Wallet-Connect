@@ -1,0 +1,75 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 40,
+        "width": 40
+    },
+    "display": "Trust Wallet",
+    "events": {
+        "AAL": {
+            "caption": "Error",
+            "name": "error"
+        },
+        "AAM": {
+            "caption": "Connected",
+            "name": "connected"
+        },
+        "AAN": {
+            "caption": "Disconnected",
+            "name": "disconnected"
+        },
+        "AAO": {
+            "caption": "Chain Changed",
+            "name": "chain_changed"
+        }
+    },
+    "icon": "ion-social-usd",
+    "property_applications": {
+        "Border": false,
+        "MinWidth": true,
+        "resizable": true
+    },
+    "states": {
+        "AAE": {
+            "caption": "Address ID",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "address_id",
+            "value": "text"
+        },
+        "AAF": {
+            "caption": "Chain ID",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "chain_id",
+            "value": "number"
+        },
+        "AAH": {
+            "caption": "Is Connected",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "is_connected",
+            "value": "boolean"
+        },
+        "AAK": {
+            "caption": "Error",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "error",
+            "value": "text"
+        },
+        "AAQ": {
+            "caption": "Trust Installed?",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "trust_installed",
+            "value": "boolean"
+        }
+    }
+}

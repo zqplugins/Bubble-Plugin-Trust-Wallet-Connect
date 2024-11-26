@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAD": {
+            "name": "Trust Logo",
+            "url": "//meta-q.cdn.bubble.io/f1718801170822x693755195642991700/32179889.png"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": true
+    }
+}

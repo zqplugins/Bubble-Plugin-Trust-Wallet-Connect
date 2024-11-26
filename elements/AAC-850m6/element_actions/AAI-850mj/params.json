@@ -1,0 +1,14 @@
+{
+    "caption": "Switch Chain",
+    "fields": {
+        "AAJ": {
+            "caption": "Chain ID",
+            "default_val": "1",
+            "doc": "Example: 1, 5",
+            "editor": "DynamicValue",
+            "name": "chain_id",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}
